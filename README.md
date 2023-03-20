@@ -2,11 +2,10 @@
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  <img src="https://user-images.githubusercontent.com/71076926/226333292-90146820-a828-4861-8d33-a43d53821812.png" width="600" height="400">
   <br>
 </p>
 
-목차
 
 ## 프로젝트 소개
 
@@ -14,16 +13,16 @@
 42서울 공통과정 마지막 5인 팀 과제</p>
 
 <p align="center">
-GIF Images
+  <img src="https://user-images.githubusercontent.com/71076926/226332593-c1c2e3e7-f0d0-4e0a-86eb-88163bf94d66.jpg" width="400" height="300"/>
 </p>
 
 <br>
 
 ## 기술 스택
 
-| TypeScript |  React   |  NestJs  |
-| :--------: | :------: | :-----:  |
-|   ![ts]    | ![react] | ![nestjs]|
+| TypeScript |  React   |  NestJs |
+| :--------: | :------: | :-----: |
+|<img src="https://user-images.githubusercontent.com/71076926/226326701-e7059d66-e2a6-4721-8ddf-bf35263c94f0.svg" width="100" height="100"/> |<img src="https://user-images.githubusercontent.com/71076926/226327297-69b7e670-6881-41f1-8de1-cced2c6b6f71.svg" width="100" height="100"/> |<img src="https://user-images.githubusercontent.com/71076926/226330569-522b4598-d4d1-42b4-b139-9bf3ef764c36.png" width="100" height="100"/> |
 
 <br>
 
@@ -54,7 +53,6 @@ Docker만 설치되어 있다면 어디서나 실행가능하다.
 
 <!-- Stack Icon Refernces -->
 
-[js]: /images/stack/javascript.svg
-[ts]: ![typescript](https://user-images.githubusercontent.com/71076926/226326701-e7059d66-e2a6-4721-8ddf-bf35263c94f0.svg)
-[react]: ![react](https://user-images.githubusercontent.com/71076926/226327297-69b7e670-6881-41f1-8de1-cced2c6b6f71.svg)
-[nestjs]: ![NestJS](https://user-images.githubusercontent.com/71076926/226327074-aa09dd39-35c9-4b61-aa62-f77507845973.svg)
+[ts]: "https://user-images.githubusercontent.com/71076926/226326701-e7059d66-e2a6-4721-8ddf-bf35263c94f0.svg"
+[react]: https://user-images.githubusercontent.com/71076926/226327297-69b7e670-6881-41f1-8de1-cced2c6b6f71.svg
+[nestjs]: https://user-images.githubusercontent.com/71076926/226330569-522b4598-d4d1-42b4-b139-9bf3ef764c36.png
