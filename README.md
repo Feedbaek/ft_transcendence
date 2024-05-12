@@ -1,12 +1,7 @@
 # ft_trascendence
-
-
-![image](https://github.com/Feedbaek/ft_transcendence/assets/71076926/3f23d28a-c386-4f98-8be4-dbeed061e296)
-
 <p align="center">
-  <br>
-  <img src="https://user-images.githubusercontent.com/71076926/226333292-90146820-a828-4861-8d33-a43d53821812.png" width="800" height="400">
-  <br>
+  <img src="https://github.com/Feedbaek/ft_transcendence/assets/71076926/3f23d28a-c386-4f98-8be4-dbeed061e296" width="80%" height="100%"/>
+  <img src="https://github.com/Feedbaek/ft_transcendence/assets/71076926/c0307f27-3060-4460-83df-ec95ba2e291f" width="80%" height="100%"/>
 </p>
 
 
@@ -29,16 +24,21 @@
 
 <br>
 
+## 실행
+`git clone` 후에 `make` 명령어 입력. (docker 설치가 되어있어야 합니다)
+
+<br>
+
 ## 구현 기능
 
 ### 기능 1
-42OAuth 인증을 사용한 로그인, 2차 인증 기능과 유저 프로필
+42 OAuth2 인증을 사용한 소셜 로그인, 문자 메시지를 사용한 2차 인증 기능 및 프로필 커스터마이징
 
 ### 기능 2
-실시간 채팅과 친구목록을 포함한 다양한 상호작용 기능
+웹 소켓을 사용한 실시간 채팅과 친구 목록을 포함한 다양한 상호작용 기능
 
 ### 기능 3
-ping-pong 게임을 모방하여 만든 실시간 게임.
+ping-pong 게임을 모방하여 웹 소켓으로 만든 실시간 게임.
 혼자하기, 랭크전, 친선전 3가지 모드 존재
 
 <br>
@@ -47,7 +47,7 @@ ping-pong 게임을 모방하여 만든 실시간 게임.
 
 <p align="justify">
 Docker를 사용하여 개발하여서 개발 환경을 공유하기 용이했음. 
-Docker만 설치되어 있다면 어디서나 실행가능하다.
+Docker만 설치되어 있다면 어디서나 `make` 명령어로 실행가능하다.
 
 서버에서 게임 로직을 처리하다보니, 게임방이 많아지면 서버에 부하가 심해질 수 있음.
 
