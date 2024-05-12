@@ -1,8 +1,11 @@
 # ft_trascendence
 
+
+![image](https://github.com/Feedbaek/ft_transcendence/assets/71076926/3f23d28a-c386-4f98-8be4-dbeed061e296)
+
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/71076926/226333292-90146820-a828-4861-8d33-a43d53821812.png" width="600" height="400">
+  <img src="https://user-images.githubusercontent.com/71076926/226333292-90146820-a828-4861-8d33-a43d53821812.png" width="800" height="400">
   <br>
 </p>
 
@@ -13,7 +16,7 @@
 42서울 공통과정 마지막 5인 팀 과제</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71076926/226332593-c1c2e3e7-f0d0-4e0a-86eb-88163bf94d66.jpg" width="400" height="300"/>
+  <img src="https://user-images.githubusercontent.com/71076926/226332593-c1c2e3e7-f0d0-4e0a-86eb-88163bf94d66.jpg" width="500" height="300"/>
 </p>
 
 <br>
